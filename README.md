@@ -19,3 +19,5 @@ Administration: customs, tax, civil service
 State Bussiness
 Education, culute and Sport 
 Other
+
+This dataset was used in several regression models exploring the relationship between corruption and gross regional product, yielding significant results within Pooled OLS models in overall corruption instances, and significant results in Fixed Effects models for Occupational subdivisons of Security and Law. 
